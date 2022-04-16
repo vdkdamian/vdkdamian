@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+<h4>Social media</h4>
+
+[![Linkedin: dhontlouis](https://img.shields.io/badge/-Damian Van de Kauter-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/damian-van-de-kauter-494973236/)](https://www.linkedin.com/in/damian-van-de-kauter-494973236/)
+
 <!--
 **novemTeam/novemTeam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
