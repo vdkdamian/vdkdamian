@@ -2,7 +2,7 @@
 
 <h4>Social media</h4>
 
-[![Linkedin: damianvandekauter](https://img.shields.io/badge/-DamianVandeKauter-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/damian-van-de-kauter-494973236/)](https://www.linkedin.com/in/damian-van-de-kauter-494973236/)
+[![Linkedin: damianvandekauter](https://img.shields.io/badge/-DamianVandeKauter-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/vdkdamian)](www.linkedin.com/in/vdkdamian)
 
 <!--
 **novemTeam/novemTeam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
