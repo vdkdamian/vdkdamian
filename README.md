@@ -1,7 +1,8 @@
-# 👋 Hello, I'm Damian
+## Damian Van de Kauter, Developer working in Swift - based in Belgium 🇧🇪 
 
 ```swift
 struct Developer {
+
     let firstname = "Damian"
     let lastname = "Van de Kauter"
     var fullname: String { PersonNameComponents(developer: self).fullname }
@@ -14,6 +15,7 @@ struct Developer {
 }
 
 extension Developer: CustomStringConvertible {
+
     var description: String {
         "\(fullname), \(role) working in \(language) – based in \(location)"
     }
